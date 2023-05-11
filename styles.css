@@ -1,0 +1,56 @@
+.dark .gradient {
+  background-color: #343a40;
+  color: white;
+}
+
+.dark .name-2 {
+  background-color: black;
+}
+
+.dark .card {
+  background-color: #555;
+  color: white;
+}
+
+.dark .jumbotron {
+  background-color: #555;
+  color: #fff;
+}
+
+.dark .footer {
+  background-color: #222;
+  color: black;
+}
+
+.jumbotron-fluid {
+  background-color: antiquewhite;
+}
+
+.bg-light {
+  background-color: antiquewhite;
+}
+
+.btn-light {
+  border-radius: 50px;
+  height: 40px;
+  width: 140px;
+}
+
+.card-img-top {
+  width: 348px;
+  height: 229px;
+}
+
+.contact-details {
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.mb-5 {
+  text-decoration: underline;
+}
+
+.dark .mb-0 {
+  color: black;
+}
